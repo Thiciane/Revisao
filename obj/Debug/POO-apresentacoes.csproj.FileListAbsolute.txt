@@ -1,0 +1,12 @@
+C:\Users\thici\Documents\IFRO\codigos\POO-apresentacoes\bin\Debug\POO-apresentacoes.exe.config
+C:\Users\thici\Documents\IFRO\codigos\POO-apresentacoes\bin\Debug\POO-apresentacoes.exe
+C:\Users\thici\Documents\IFRO\codigos\POO-apresentacoes\bin\Debug\POO-apresentacoes.pdb
+C:\Users\thici\Documents\IFRO\codigos\POO-apresentacoes\obj\Debug\POO-apresentacoes.csproj.AssemblyReference.cache
+C:\Users\thici\Documents\IFRO\codigos\POO-apresentacoes\obj\Debug\POO-apresentacoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\thici\Documents\IFRO\codigos\POO-apresentacoes\obj\Debug\POO_apresentacoes.Properties.Resources.resources
+C:\Users\thici\Documents\IFRO\codigos\POO-apresentacoes\obj\Debug\POO-apresentacoes.csproj.GenerateResource.cache
+C:\Users\thici\Documents\IFRO\codigos\POO-apresentacoes\obj\Debug\POO-apresentacoes.csproj.CoreCompileInputs.cache
+C:\Users\thici\Documents\IFRO\codigos\POO-apresentacoes\obj\Debug\POO-apresentacoes.exe
+C:\Users\thici\Documents\IFRO\codigos\POO-apresentacoes\obj\Debug\POO-apresentacoes.pdb
+C:\Users\thici\Documents\IFRO\codigos\POO-apresentacoes\obj\Debug\POO_apresentacoes.Divisao.resources
+C:\Users\thici\Documents\IFRO\codigos\POO-apresentacoes\obj\Debug\POO_apresentacoes.Menu.resources
