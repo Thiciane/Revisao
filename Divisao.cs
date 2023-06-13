@@ -24,6 +24,8 @@ namespace POO_apresentacoes
             
             try
             {
+            //hahhahahah
+            //mds
                 double valor1 = Convert.ToDouble(txB_valor1.Text);
                 double valor2 = Convert.ToDouble(txB_valor2.Text);
 
